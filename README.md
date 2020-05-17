@@ -1,2 +1,5 @@
-# Ola Geocaf-Code
- primeiro repositório versionado code
+# Olá, Geocaf-Code!
+ primeiro repositório do curso de Git e GitHub 
+
+
+ Repositório criado durante uma aula ao vivo!
